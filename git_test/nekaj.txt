@@ -1,1 +1,4 @@
 Nova funkcija.
+
+
+boljsa implementacija F2
