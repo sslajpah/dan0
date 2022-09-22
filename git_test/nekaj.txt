@@ -1,1 +1,4 @@
 Nova funkcija.
+
+
+še ena funkcija. V2
